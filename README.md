@@ -20,6 +20,6 @@
 4. **저장**: 모든 추첨이 완료되면 나타나는 `엑셀 저장` 버튼을 눌러 결과를 저장합니다.
 
 ## Tech Stack
-**Frontend**: HTML5, CSS3, JavaScript (Vanilla JS) 
-**Icons**: [Lucide Icons](https://lucide.dev/)
-**Fonts**: Pretendard (Apple SD Gothic Neo Fallback)
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla JS) 
+- **Icons**: [Lucide Icons](https://lucide.dev/)
+- **Fonts**: Pretendard (Apple SD Gothic Neo Fallback)
